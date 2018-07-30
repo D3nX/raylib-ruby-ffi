@@ -1,5 +1,5 @@
 # raylib Ruby (FFI)
-<h1>Ruby (FFI) bindings for raylib<h1 />
+<h1>Ruby (FFI) bindings for raylib</h1>
 
 Hello there !<br />
 Here is the official (FFI) bindings of raylib for the Ruby programming language !<br />
