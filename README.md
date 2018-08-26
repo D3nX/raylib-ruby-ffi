@@ -1,6 +1,8 @@
 # raylib Ruby (FFI)
 <h1>Ruby (FFI) bindings for raylib</h1>
 
+**Sorry if the binding is not updated regulary, I'm really busy these last times**<br />
+
 Hello there !<br />
 Here is the official (FFI) bindings of raylib for the Ruby programming language !<br />
 Made with Ruby [FFI](https://github.com/ffi/ffi), which is a clever and excellent lib for call C from Ruby<br /><br />
